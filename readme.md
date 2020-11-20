@@ -1,4 +1,4 @@
-##Python Sudoku Solver 
+## Python Sudoku Solver 
 
 I was trying to understand recursive functions and did this little piece of code to practice it. 
 
